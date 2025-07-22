@@ -1,8 +1,8 @@
 # My PyCharm Projects
 
-This repository contains information about my PyCharm-based Python project.
+This repository contains information about my PyCharm-based Python projects.
 
-The source code is stored in a **private repository**.  
+All my python source code is stored in a **private repository**.  
 If you'd like access, feel free to contact me directly, and I can grant you access.
 
 ## Why is it private?
